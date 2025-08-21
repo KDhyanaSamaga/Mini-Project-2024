@@ -46,3 +46,9 @@ pip install -r requirements.txt
 # Run training / detection
 python train.py   # For training
 python detect.py  # For inference
+
+
+
+---
+
+Do you want me to also **add a cool project logo/banner at the top** of the README (like a custom image with a ship + radar theme) so it looks more eye-catching on GitHub?
